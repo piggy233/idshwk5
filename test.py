@@ -19,3 +19,5 @@ class Domain:
     else:
       return 1
     
+def initData(filename):
+  
